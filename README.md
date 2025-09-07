@@ -2,41 +2,26 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="https://github.com/user-attachments/assets/297ea017-d084-48a1-a064-513d1b6b3d0c" alt="Habit Tracker App Banner">
-  </a>
+  <h4>Credit</h4> <br>
+  <p>Project Done by Following the Code Along from this Tutorial of PedroTech Youtube Channel - https://www.youtube.com/watch?v=J50gwzwLvAk </p>
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
     <img src="https://img.shields.io/badge/-Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
     <img src="https://img.shields.io/badge/-Appwrite-2E73D5?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
     <img src="https://img.shields.io/badge/-React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Hooks" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   </div>
-  <h3 align="center">Build a Habit Tracker App with React Native, Appwrite, and TailwindCSS</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
+  <h3 align="center">Build a Habit Tracker App with React Native, Appwrite</h3>
   <br />
 </div>
 
 ## 📋 Table of Contents
 
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
-
----
-
-## 🚀 Introduction
-
-In this tutorial, you'll learn how to build a modern **Habit Tracker** app using **React Native**, **Appwrite**, **Expo**, and **TailwindCSS**. This app allows users to track their daily habits, view streaks, and manage habit completions with a sleek UI. 
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+1. [Tech Stack](#-tech-stack)
+2. [Features](#-features)
+3. [Quick Start](#-quick-start)
+4. [Screenshots](#-screenshots)
+5. [Deployment](#-deployment
 
 ---
 
@@ -45,7 +30,6 @@ In this tutorial, you'll learn how to build a modern **Habit Tracker** app using
 * **React Native** – For building native apps
 * **Expo** – For simplifying the React Native development
 * **Appwrite** – For backend and real-time database
-* **TailwindCSS** – For styling the app with utility-first CSS
 * **React Hooks** – For managing component state and side-effects
 * **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment (for web versions if applicable)
@@ -62,9 +46,6 @@ In this tutorial, you'll learn how to build a modern **Habit Tracker** app using
 
 * 🔄 **Real-Time Data**
   Sync your habits and completions in real-time with Appwrite.
-
-* 🌑 **Dark Mode Support**
-  Use TailwindCSS to implement a beautiful and responsive dark mode.
 
 * 📱 **Responsive Design**
   Use Expo's built-in features to create a mobile-first, responsive design.
@@ -85,7 +66,7 @@ In this tutorial, you'll learn how to build a modern **Habit Tracker** app using
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/habit-tracker-react-native.git
+git clone https://github.com/yourusername/react-native-habit-tracker-app.git
 cd habit-tracker-react-native
 npm install
 npm start
